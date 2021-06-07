@@ -120,7 +120,7 @@ I'm Anish from India, and I am a Computer science Undergrad and a web developer.
 <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>
 </a>
 <a href="mailto:anishprashun118@gmail.com.com">
-<img src="https://img.icons8.com/clouds/100/000000/email.png"/>
+<img src="https://img.icons8.com/clouds/48/000000/email.png"/>
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anishpras)
