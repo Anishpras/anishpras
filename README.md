@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Anishpras/anishpras/main/giphy.gif" width="100%" height="250px" style="border-radius: 25px"/>
+<img src="https://raw.githubusercontent.com/Anishpras/anishpras/main/giphy.gif" width="100%" height="350px" style="border-radius: 25px"/>
 
 # Hi there 👋
 
