@@ -118,5 +118,7 @@ I'm Anish from India, and I am a Computer science Undergrad and a web developer.
 ### Connect with me:
 <a href="https://www.linkedin.com/in/anishpras118/">
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-<hr>
+</a>
+<br/>
+<br/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anishpras)
