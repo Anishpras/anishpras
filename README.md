@@ -4,11 +4,6 @@
 
 I'm Anish from India, and I am a Computer science Undergrad and a web developer. I really enjoy learning languages and frameworks like React, JavaScript, as well as work in Figma. I also enjoy wireframing, UI/UX, and design in general.
 
-
-### Spotify Playing 🎧
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -107,13 +102,14 @@ I'm Anish from India, and I am a Computer science Undergrad and a web developer.
 
 ## Some Stats -
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anishpras&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anishpras&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anish's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishpras&layout=compact&theme=material-palenight" /></div>
 <br/>
 <br/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishpras&layout=compact&theme=material-palenight" />
-
+<div align="center">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=anishpras&theme=cobalt" alt="anishpras" /></p>
+</div>
 <hr>
 
 ### Connect with me:
