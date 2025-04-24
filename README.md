@@ -111,7 +111,9 @@ I'm Anish from India, and I am a Computer science Undergrad and a web developer.
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anishpras&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D" alt="anishpras" /></p>
 </div>
 <hr>
-
+<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/Anishpras/anishpras/dfdde7e2165335854f7d9d0a2f733bf1b1b2b436/github-contribution-grid-snake-dark.svg"/>
 ### Connect with me:
 <a href="https://www.linkedin.com/in/anishpras118/">
 <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>
