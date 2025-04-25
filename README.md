@@ -19,15 +19,6 @@ I'm a Software Engineer, Full Stack Developer, and Team Lead from India with dee
 
 ---
 
-## 🚀 Projects & Highlights
-
-- **Xamtac SaaS Platform**: Scalable marketing ERP system with CRM, email suite, and multi-channel campaign tools  
-- **Swades AI**: India's first sovereign AI platform – NLP pipelines, 10K+ call/day infra  
-- **A-Lab**: IP-protected virtual lab built with Next.js & Firebase, used by 10,000+ students  
-- **TalkTales & Poshmom**: Real-time booking, video, and marketplace integrations
-
----
-
 ## 🧰 Tools & Technologies
 
 ### 💻 Languages
