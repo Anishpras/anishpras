@@ -4,8 +4,6 @@
 
 I'm a Software Engineer, Full Stack Developer, and Team Lead from India with deep expertise in building AI-powered SaaS platforms and scalable web systems.
 
-🔧 Currently leading engineering at [Xamtac Consulting LLC](https://app.xamtac.com), where I architected core features of an AI-driven marketing ERP used by 1K+ daily active users. I also consult with high-growth startups on AI & real-time systems.
-
 🛠️ Passionate about crafting full-stack solutions with **Next.js, TypeScript, Node.js, Nest.js, Firebase, Prisma, PostgreSQL, MongoDB**, and cloud ecosystems like **AWS & Azure**.
 
 🎯 My strengths lie in:
